@@ -1,2 +1,2 @@
 # generate-previews-php
-PHP generate previews with codeigniter
+PHP Generate Previews with Codeigniter
