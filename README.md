@@ -1,5 +1,5 @@
 # Generate-Previews-PHP
->  PHP Generate Previews with Codeigniter
+> PHP Generate Previews with Codeigniter
 
 Steps to follow
 
@@ -20,4 +20,4 @@ Steps to follow
 
 By following the above steps it would become quite simple to get a preview from a website.
 
-Checkout our blog for more explanation [Link](https://codeeshop.medium.com/generate-previews-from-external-websites-3c4682f009b0)
+> Checkout our blog for more explanation [Link](https://codeeshop.medium.com/generate-previews-from-external-websites-3c4682f009b0)
