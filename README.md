@@ -19,3 +19,5 @@ Steps to follow
 [Link](https://gist.github.com/codeeshop-oc/841a67382aa30b28e4b35c73a45a12b5)
 
 By following the above steps it would become quite simple to get a preview from a website.
+
+Checkout our blog for more explanation [Link](https://codeeshop.medium.com/generate-previews-from-external-websites-3c4682f009b0)
